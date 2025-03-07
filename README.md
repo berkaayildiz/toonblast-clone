@@ -22,7 +22,6 @@ This project was built for a case study and is not intended for commercial use.
 - Particle effects and animations
 
 ## In-Game Screenshots
-<div style="display:flex;">
-    <img width="300" alt="screenshot_1" src="https://github.com/berkaayildiz/toonblast-clone/assets/37070272/c8d6cdd4-c97d-445f-b7b5-0c1d16053215">
-    <img width="300" alt="screenshot_2" src="https://github.com/berkaayildiz/toonblast-clone/assets/37070272/a3c78f11-56b5-4d3c-b401-ba30a58ce0e8">
-</div>
+| Main Screen | Gameplay Screen |
+|-------------|-----------------|
+| <img width="300" alt="screenshot_1" src="https://github.com/berkaayildiz/toonblast-clone/assets/37070272/c8d6cdd4-c97d-445f-b7b5-0c1d16053215"> | <img width="300" alt="screenshot_2" src="https://github.com/berkaayildiz/toonblast-clone/assets/37070272/a3c78f11-56b5-4d3c-b401-ba30a58ce0e8"> |
